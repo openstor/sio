@@ -1,6 +1,6 @@
-module github.com/minio/sio
+module github.com/openstor/sio
 
-go 1.24
+go 1.25
 
 require (
 	golang.org/x/crypto v0.23.0
